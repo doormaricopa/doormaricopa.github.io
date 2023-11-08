@@ -11,9 +11,6 @@ _site/
 Gemfile.lock
 **/Gemfile.lock
 
-# vscode
-.vscode
-
 # Temporary files
 tmp
 .DS_Store
