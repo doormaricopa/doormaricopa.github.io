@@ -1,10 +1,10 @@
 # site settings
 title: The Door Church of Maricopa
-subtitle: subtitle
+subtitle: 
 email: info@thedoormaricopa.com
 description: The Door Church is a local church in Maricopa
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "doormaricopa.github.io" # the base hostname & protocol for your site
+url: "https://doormaricopa.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
