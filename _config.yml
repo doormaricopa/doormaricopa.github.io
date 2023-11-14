@@ -3,7 +3,7 @@ title: The Door Church of Maricopa
 subtitle: subtitle
 email: info@thedoormaricopa.com
 description: The Door Church is a local church in Maricopa
-baseurl: "/doormaricopa.github.io" # the subpath of your site, e.g. /blog
+baseurl: "doormaricopa.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
