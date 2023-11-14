@@ -1,23 +1,32 @@
-collections:
-  authors:
-    output: true
+# site settings
+title: The Door Church of Maricopa
+subtitle: subtitle
+email: info@thedoormaricopa.com
+description: The Door Church is a local church in Maricopa
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+# social settings
+500px_url:
+facebook_url:
+github_url: 
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

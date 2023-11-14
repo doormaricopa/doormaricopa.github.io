@@ -1,14 +1,39 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
+<!DOCTYPE HTML>
+<!--
+	   Massively by HTML5 UP
+	   html5up.net | @ajlkn
+	   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+   -->
+<html>
 
-<p>
-  {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
-  {% endif %}
-</p>
+    {% include head.html %}
 
-{{ content }}
+	  <body class="is-loading">
+
+		    <!-- Wrapper -->
+			  <div id="wrapper">
+
+            {% include header.html %}
+            {% include menu.html %}
+
+				    <!-- Post -->
+				    <section class="post">
+						    <header class="major">
+								    <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+								    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+								    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+						    </header>
+
+                {% if page.image %}
+                <div class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></div>
+                {% endif %}
+
+                {{ content }}
+
+				    </section>
+
+            {% include footer.html %}
+
+    </body>
+
+</html>

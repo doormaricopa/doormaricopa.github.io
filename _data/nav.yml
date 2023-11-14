@@ -1,8 +1,14 @@
 - name: Home
-  link: /
+  link: /index.html
+- name: Meet Jesus
+  link: /meet-jesus.html
 - name: Give
   link: /give.html
+- name: About Us
+  link: /about.html
+- name: Generic
+  link: /generic.html
+- name: Elements
+  link: /elements.html
 - name: Posts
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+  link: /posts.html
