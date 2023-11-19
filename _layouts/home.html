@@ -16,6 +16,14 @@
             {% include header.html %}
             {% include menu.html %}
 
+<h1>
+	test
+	{% for highlight in site.highlights %}
+		{{ highlight.url }}
+	{% endfor %}
+</h1>
+
+			{% if site.highlight != null %}
 
 				    <!-- Featured Post -->
 				    <article class="post featured">
@@ -32,6 +40,8 @@
 								    <li><a href="#" class="button big">Full Story</a></li>
 						    </ul>
 				    </article>
+
+			{% endif %}
 
             {% if site.posts != null %}
 

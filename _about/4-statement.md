@@ -1,10 +1,10 @@
 ---
+title: Statement of Faith
 layout: about
-title: Meet Jesus
+link: Statement of Faith
+slug: statement
 ---
-## Statement of Faith
-
-#### We believe these things:
+### We believe these things:
 <div class="box">
 There is only one God, and He is eternally existent in Three Persons: Father, Son, and Holy Spirit.
 </div>
