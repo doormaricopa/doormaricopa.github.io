@@ -3036,7 +3036,7 @@
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("../../assets/images/overlay.png"), linear-gradient(0deg, rgba(190, 25, 37, 1), rgba(0, 0, 0, 0.1)), url("../../assets/images/bg.jpg");
+			background-image: url("../../assets/images/overlay.png"), linear-gradient(0deg, rgba(190, 25, 37, 1), rgba(0, 0, 0, 0.5)), url("../../assets/images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -4192,9 +4192,9 @@
 		}
 
 	#copyright {
-		color: #ffffff;
+		color: #be1925;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: #be1925;
 		cursor: default;
 		font-family: "Montserrat", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4203,7 +4203,7 @@
 		line-height: 1.5;
 		text-align: center;
 		text-transform: uppercase;
-		margin: 4rem auto 8rem auto;
+		margin: 4rem auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;

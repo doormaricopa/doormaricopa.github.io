@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Meet Jesus
-about: no
+layout: page
 ---
-<h1 class="red"> Jesus is</h1>
+<h1 class="red">Jesus is</h1>
 
 ## THE WAY, THE TRUTH, & THE LIFE
 

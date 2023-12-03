@@ -23,6 +23,8 @@ twitter_url:
 # build settings
 markdown: kramdown
 
+future: true
+
 sass:
   style: compressed
 
@@ -30,6 +32,10 @@ collections:
   about:
     output: true
     permalink: /:collection/:slug
-  featured:
+  events:
     output: true
     permalink: /:collection/:name
+  featured:
+    output: true
+  services:
+    output: true
