@@ -8,6 +8,8 @@ schedule: Sunday, 11:00 AM<br/><br/><br/><br/><br/>
 ---
 ## Santa Cruz Elementary
 
+Sunday Morning Services are held here at 11:00 AM.
+
 19845 N Costa del Sol Blvd <br />
 Maricopa, AZ  85138
 

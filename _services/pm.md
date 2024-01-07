@@ -8,6 +8,8 @@ schedule: Sunday, 6:30 PM<br/>Prayer, 5:30 PM<br/><br/>Wednesday, 7:00 PM<br/>Pr
 ---
 ## A+ Charter School
 
+Evening Services are held here on Sunday at 6:30 PM and Wednesday at 7:00 PM.
+
 41735 Alan Stephens Pkwy <br />
 Maricopa, AZ  85138
 

@@ -4,7 +4,6 @@
 <!-- Nav -->
 <nav id="nav">
 	<ul class="links">
-			<li><a href="/index.html#drop"><img src="assets/images/logo.png" alt="" style="height:3rem;float:left;margin-top:.5rem;" />Home</a></li>
 		{% for item in site.data.nav %}
 		    <li{% if current_page == item.link or item.name == "About Us" and is_about == "about" %} class="active"{% endif %}><a href="{{ item.link | absolute_url }}">{{ item.name }}</a></li>
 		    {% endfor %}
