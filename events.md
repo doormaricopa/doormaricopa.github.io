@@ -3,6 +3,9 @@ layout: page
 title: Events
 about: no
 ---
+## Upcoming in March
+<a href="/mar24.html">March 2024 Events</a>
+
 ## Regular Service Schedule
 <h3 class="red">Morning Worship</h3>
 <p>Sunday, 11:00 AM<br />
