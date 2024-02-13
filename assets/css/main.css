@@ -1856,15 +1856,15 @@
 
 /* Box */
 
-	.box {
+	.center-box, .box {
 		border: solid 2px;
 		margin-bottom: 2rem;
 		padding: 1.5rem;
 	}
 
-		.box > :last-child,
-		.box > :last-child > :last-child,
-		.box > :last-child > :last-child > :last-child {
+		.center-box, .box > :last-child,
+		.center-box, .box > :last-child > :last-child,
+		.center-box, .box > :last-child > :last-child > :last-child {
 			margin-bottom: 0;
 		}
 
@@ -1875,6 +1875,11 @@
 		}
 
 	.box {
+		border-color: #eeeeee;
+	}
+
+	.center-box {
+		text-align: center;
 		border-color: #eeeeee;
 	}
 
