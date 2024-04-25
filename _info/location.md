@@ -5,7 +5,7 @@ permalink: /location.html
 header: Come visit us at
 boxtext: Directions & Info
 boxlink: /location.html
-hometext: 44480 W Honeycutt Rd Suite 107<br />Maricopa, AZ  85138<p><br/><br/></p>
+hometext: All services are now being held at our new address:<br /><br />44480 W Honeycutt Rd Suite 107<br />Maricopa, AZ  85138 <br /><br />
 ---
 ## Location
 
