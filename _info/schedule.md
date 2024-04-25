@@ -1,10 +1,11 @@
 ---
-title: Evening Services
+title: Regular Schedule
 layout: page
-permalink: /aplus.html
-place: A+ Charter School
-address: 41735 Alan Stephens Pkwy<br />Maricopa, AZ 85138
-schedule: Sunday, 6:30 PM<br/>Prayer, 5:30 PM<br/><br/>Wednesday, 7:00 PM<br/>Prayer, 6:00 PM
+permalink: /schedule.html
+header: 44480 W Honeycutt Rd #107
+boxtext: Events Info
+hometext: Sunday, 11:00 AM & 6:30 PM<br/>Prayer, 5:30 PM<br/><br/>Wednesday, 7:00 PM<br/>Prayer, 6:00 PM
+boxlink: /events.html
 ---
 ## A+ Charter School
 

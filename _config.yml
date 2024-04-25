@@ -6,7 +6,7 @@ description: The Door Church is a local church in Maricopa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://doormaricopa.github.io" # the base hostname & protocol for your site
 author:
-phone: (480) 516-5342
+phone: (520) 701-1223
 
 # social settings
 500px_url:
@@ -37,5 +37,5 @@ collections:
     permalink: /:collection/:name
   featured:
     output: true
-  services:
+  info:
     output: true

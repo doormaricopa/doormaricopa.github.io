@@ -38,7 +38,6 @@
 	<!-- 
 
 	THIS IS HOW I WOULD INSERT A TIME-SENSITIVE SECTION UNTIL I GET THE AUTOMATIC STUFF WORKING
-	-->
 	<section align="center">
 		<header>
 			<h2 class="red">NEW LOCATION - COMING SOON</h2>
@@ -46,19 +45,18 @@
 		<p style="text-align: center">We are relocating to a permanent space located at </p>
 		<h4>44480 W Honeycutt Rd #107</h4>
 	</section>
-
+	-->
 
 	<!-- Services -->
 		<section class="posts">
-			{% for service in site.services %}
+			{% for infobit in site.info %}
 				<article>
 					<header>
-						<h2 class="red">{{ service.title }}</h2>
+						<h2 class="red">{{ infobit.title }}</h2>
 					</header>
-					<h4 align="left">{{ service.place }}</h4>
-					<p>{{ service.schedule }}</p>
+					<p>{{ infobit.hometext }}</p>
 					<ul class="actions">
-						<li><a href="{{ service.url  | relative_url }}" class="button">Directions & Info</a></li>
+						<li><a href="{{ infobit.boxlink  | relative_url }}" class="button">{{ infobit.boxtext }}</a></li>
 					</ul>
 				</article>
 	          {% endfor %}

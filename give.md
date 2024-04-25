@@ -11,7 +11,7 @@ The Door Church of Maricopa is a 501(c)(3) nonprofit and all contributions made 
 
 ### MAIL A CONTRIBUTION:
 
-Checks can be mailed to:
-The Door Church of Maricopa
-44261 W Palo Aliso Way
+Checks can be mailed to:<br/>
+The Door Church of Maricopa<br/>
+44261 W Palo Aliso Way<br/>
 Maricopa, AZ 85138
