@@ -5,19 +5,19 @@ layout: page
 ---
 ## What To Expect
 <span class="image left"><img src="/assets/images/expect.jpg" alt="" /></span>
-We are a new, small church plant with a large heart. Right now we're holding services in two schools while we look for a permanent location.
-
-We love having children in our services but child care for smaller children who are unused to a church setting is available.
+We are a local church plant with a worldwide vision. We share a cozy storefront space as we continue to grow. When you enter the building you will come into our sanctuary where we have cold water waiting.
 
 Our worship services are Pentecostal in nature, featuring music, praise, Bible-based preaching, ministry and prayer for personal needs. Services generally run around 1 hour. We welcome everyone and we're always willing to pray for healing or any other need.
+
+We love having families worship with their children in our services. However, we also offer child care for smaller children who are unused to a church setting.
 
 <hr />
 
 ## Pastor Kevin Teeling
 <span class="image right"><img src="/assets/images/pastor.jpg" alt="" /></span>
-Pastor Kevin was radically saved in 2006 and has been all in for Jesus ever since. He met Shar, the love of his life, in church in Tempe, AZ, where she was also radically saved. They were married in 2009 and now have three wonderful children. 
+Pastor Kevin was radically saved in 2006 and has been all in for Jesus ever since. He met Shar, the love of his life, in church in Tempe, AZ, where she was also radically saved (actually, on the exact same day!) They were married in 2009 and now have three wonderful children. 
 
-Kevin & Shar were discipled and trained for ministry in their mother church in Tempe, including twice serving on the ministry staff as outreach director. They have also pastored in Meridian, ID and are thrilled to pioneer a church plant in Maricopa.
+Kevin & Shar were discipled and trained for ministry in their mother church in Tempe, including twice serving on the ministry staff as outreach director. They also pioneered a church in Meridian, ID. They are excited to see the church grow as they have set down roots here in Maricopa.
 
 <hr />
 
