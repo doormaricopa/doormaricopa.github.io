@@ -17,8 +17,7 @@ All services are held at The Door in Tempe:<br />
 [1444 W Auto Dr<br />
 Tempe, AZ 85284](https://maps.app.goo.gl/VMRg9hd3BFoGjg8B9)
 
-## NO WEDNESDAY SERVICE
+<h2 class="red">NO WEDNESDAY SERVICE</h2>
 We will not hold our Wednesday service in person this week. Please join the conference.
-    
-## LIVESTREAM LINK
-https://www.youtube.com/@TheDoorChurchTempe/streams
+
+<a href="https://www.youtube.com/@TheDoorChurchTempe/streams" class="button special big">JOIN LIVESTREAM</a>
